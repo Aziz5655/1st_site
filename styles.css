@@ -1,0 +1,13 @@
+.Name {
+	text-align: center;
+	color: Blue;
+}
+
+.info {
+	/* Otstup s verhu v niz */
+	margin-bottom: 50px;
+	/* Otstup s leva v pravo */
+	margin-left: 50px;
+	/* menyat cvet texta */
+	color: blue;
+}
